@@ -1,3 +1,11 @@
-[
- {Comming Soon}
-]
+ [
+ {
+    "name": "$DEVICE_NAME",
+    "brand": "$DEVICE_BRAND",
+    "codename": "$DEVICE_CODENAME",
+    "afh_folder": "$ROME_FOLDER_SERVER",
+    "maintainer_name": "$MAINTAINER_NAME",
+    "maintainer_xda_profile": "$XDA_PROFILE",
+    "xda_thread": "$XDA_THREAD_LINK"
+  }
+  ]
